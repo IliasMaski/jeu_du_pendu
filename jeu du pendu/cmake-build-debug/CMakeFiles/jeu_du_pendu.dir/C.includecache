@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/jeu du pendu/dico.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+dico.h
+D:/jeu du pendu/dico.h
+
+D:/jeu du pendu/dico.h
+
+D:/jeu du pendu/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+dico.h
+D:/jeu du pendu/dico.h
+
