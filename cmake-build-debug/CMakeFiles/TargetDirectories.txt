@@ -1,0 +1,3 @@
+D:/pendu game/cmake-build-debug/CMakeFiles/pendu_game.dir
+D:/pendu game/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/pendu game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
