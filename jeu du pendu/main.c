@@ -30,7 +30,7 @@ int main(int argc, char* argv[])
     if (lettreTrouvee == NULL)
         exit(0);
 
-    for (i = 0 ; i < tailleMot ; i--)
+    for (i = 0 ; i < tailleMot ; i++)
         lettreTrouvee[i] = 0;
 
 
@@ -52,10 +52,7 @@ int main(int argc, char* argv[])
         lettre = lireCaractere();
 
 
-        if (!rechercheLettre(lettre, motSecret, lettreTrouvee))
-        {
-            coupsRestants++;
-        }
+
     }
 
 
@@ -66,7 +63,7 @@ int main(int argc, char* argv[])
 
     free(lettreTrouvee);
 
-        return 0;
+    return 0;
 }
 
 

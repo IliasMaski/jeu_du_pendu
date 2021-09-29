@@ -4,7 +4,7 @@
 # compile C with C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30037/bin/Hostx86/x86/cl.exe
 C_DEFINES = 
 
-C_INCLUDES = -I"D:\jeu du pendu\."
+C_INCLUDES = -I"D:\jeu_du_pendu\jeu du pendu\."
 
 C_FLAGS = /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd -std:c11
 

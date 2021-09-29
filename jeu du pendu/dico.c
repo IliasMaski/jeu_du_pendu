@@ -15,11 +15,11 @@ int piocherMot(char *motPioche)
 
 
     if (dico == NULL)
+    {
         printf("\nImpossible de charger le dictionnaire de mots");
         return 0;
 
     }
-
 
     do
     {
@@ -53,5 +53,4 @@ int nombreAleatoire(int nombreMax)
     srand(time(NULL));
     return (rand() % nombreMax);
 }
-
 

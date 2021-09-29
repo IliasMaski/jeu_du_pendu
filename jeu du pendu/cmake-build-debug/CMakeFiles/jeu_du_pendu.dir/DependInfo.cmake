@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/jeu du pendu/dico.c" "D:/jeu du pendu/cmake-build-debug/CMakeFiles/jeu_du_pendu.dir/dico.c.obj"
-  "D:/jeu du pendu/main.c" "D:/jeu du pendu/cmake-build-debug/CMakeFiles/jeu_du_pendu.dir/main.c.obj"
+  "D:/jeu_du_pendu/jeu du pendu/dico.c" "D:/jeu_du_pendu/jeu du pendu/cmake-build-debug/CMakeFiles/jeu_du_pendu.dir/dico.c.obj"
+  "D:/jeu_du_pendu/jeu du pendu/main.c" "D:/jeu_du_pendu/jeu du pendu/cmake-build-debug/CMakeFiles/jeu_du_pendu.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")
 
