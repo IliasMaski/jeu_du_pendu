@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/jeu_du_pendu/jeu du pendu/cmake-build-debug/CMakeFiles/jeu_du_pendu.dir/embed.manifest"
